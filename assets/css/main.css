@@ -2829,8 +2829,8 @@ ul.menu li:first-child {
 
 	/* Mine */
 
-	#blogPost:hover {
-		background-color: yellow;
+	#blogPost {
+		color: blue;
 	}
 
 }
